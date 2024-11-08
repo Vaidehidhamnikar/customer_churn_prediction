@@ -1,8 +1,0 @@
-pandas
-streamlit
-scikit-learn
-snowflake-snowpark-python
-snowflake-connector-python
-snowflake-ml-python
-matplotlib
-seaborn
